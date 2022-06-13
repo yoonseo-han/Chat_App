@@ -1,4 +1,4 @@
-# chart_app - Building a Flutter Chat Application From Scratch
+# Chat App - Building a Flutter Chat Application From Scratch
 
 A new Flutter project.
 
